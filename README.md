@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryurina" alt="ryurina" /></a> </p>
 
-- 🔭 I’m currently the CTO [Akademika](https://www.facebook.com/AkademikaMG)
+- 🔭 I’m currently the Co-Founder and CTO of [Akademika](https://www.facebook.com/AkademikaMG)
 
 - 🌱 I’m currently learning **NextJS**
 
