@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryurina" alt="ryurina" /></a> </p>
 
-- 🔭 I’m currently the Co-Founder and CTO of [Akademika MG](https://www.akademika.mg/)
+- 🔭 I’m currently the Co-Founder of [Akademika MG](https://www.akademika.mg/)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS** and **Data Science**
 
 - 📫 How to reach me **ryurina23@gmail.com**
 
