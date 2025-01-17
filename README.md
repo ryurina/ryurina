@@ -8,6 +8,7 @@
 - 🔭 I’m currently the Co-Founder of [Akademika MG](https://www.akademika.mg/)
 
 - 🌱 I’m currently learning **NextJS** and **Data Science**
+- I'm on Youtube too: https://www.youtube.com/@loonatic-mg
 
 - 📫 How to reach me **ryurina23@gmail.com**
 
