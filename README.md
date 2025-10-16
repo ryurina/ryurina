@@ -31,4 +31,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ryurina"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ryurina" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryurina&" alt="ryurina" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/f2c0aab10500eb4dd820a0cc20819c5fd8bd725347b3c39172d3d5d012f6d8c9/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d72797572696e61" alt="ryurina" /></p>
